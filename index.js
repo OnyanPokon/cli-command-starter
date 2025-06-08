@@ -9,7 +9,7 @@ const [type, projectName] = args;
 
 const repoMap = {
   backend: 'https://github.com/OnyanPokon/backend-starter.git',
-  frontend: 'https://github.com/rafiqdev/frontend-template.git',
+  frontend: 'https://github.com/OnyanPokon/frontend-starter.git',
 };
 
 if (!type || !projectName) {
